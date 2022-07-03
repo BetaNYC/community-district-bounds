@@ -1,0 +1,356 @@
+[
+  {
+    "borocd": 101,
+    "name": "Battery Park City, Civic Center, Ellis Island, Governors Island, Liberty Island, South Street Seaport, Tribeca, Wall Street, World Trade Center",
+    "website": "http://www1.nyc.gov/site/manhattancb1/index.page",
+    "email": "man01@cb.nyc.gov"
+  },
+  {
+    "borocd": 102,
+    "name": "Greenwich Village, Hudson Square, Little Italy, NoHo, SoHo, South Village, West Village",
+    "website": "http://www.nyc.gov/html/mancb2",
+    "email": "bgormley@cb.nyc.gov"
+  },
+  {
+    "borocd": 103,
+    "name": "Chinatown, East Village, Lower East Side, NoHo, Two Bridges",
+    "website": "http://www.nyc.gov/html/mancb3",
+    "email": "mn03@cb.nyc.gov"
+  },
+  {
+    "borocd": 104,
+    "name": "Chelsea, Clinton, Hudson Yards",
+    "website": "http://www.nyc.gov/mcb4",
+    "email": "jbodine@cb.nyc.gov"
+  },
+  {
+    "borocd": 105,
+    "name": "Flatiron, Gramercy Park, Herald Square, Midtown, Midtown South, Murray Hill, Times Square, Union Square",
+    "website": "http://www.cb5.org/",
+    "email": "office@cb5.org"
+  },
+  {
+    "borocd": 106,
+    "name": "Beekman Place, Gramercy Park, Murray Hill, Peter Cooper Village, Stuyvesant Town, Sutton Place, Tudor City, Turtle Bay",
+    "website": "http://www.cbsix.org/",
+    "email": "Office@cbsix.org"
+  },
+  {
+    "borocd": 107,
+    "name": "Lincoln Square, Manhattan Valley, Upper West Side",
+    "website": "http://www.nyc.gov/mcb7",
+    "email": "office@cb7.org"
+  },
+  {
+    "borocd": 108,
+    "name": "Carnegie Hill, Lenox Hill, Roosevelt Island, Upper East Side, Yorkville",
+    "website": "http://www.cb8m.com/",
+    "email": "info@cb8m.com"
+  },
+  {
+    "borocd": 109,
+    "name": "Hamilton Heights, Manhattanville, Morningside Heights, West Harlem",
+    "website": "http://www.cb9m.org/",
+    "email": "eprince@cb9m.org"
+  },
+  {
+    "borocd": 110,
+    "name": "Central Harlem",
+    "website": "http://www.nyc.gov/html/mancb10",
+    "email": "MN10CB@cb.nyc.gov"
+  },
+  {
+    "borocd": 111,
+    "name": "East Harlem, Harlem, Randall's Island Park, Wards Island Park",
+    "website": "http://www.cb11m.org/",
+    "email": "mn11@cb.nyc.gov"
+  },
+  {
+    "borocd": 112,
+    "name": "Inwood, Washington Heights",
+    "website": "http://www.nyc.gov/html/mancb12",
+    "email": "ebsmith@cb.nyc.gov"
+  },
+  {
+    "borocd": 201,
+    "name": "Melrose, Mott Haven, Port Morris",
+    "website": "http://www1.nyc.gov/site/bronxcb1/index.page",
+    "email": "brxcb1@optonline.net"
+  },
+  {
+    "borocd": 202,
+    "name": "Hunts Point, Longwood",
+    "website": "http://www.bxcb2.org/",
+    "email": "brxcb2@optonline.net"
+  },
+  {
+    "borocd": 203,
+    "name": "Claremont, Crotona Park East, Melrose, Morrisania",
+    "website": "http://www.nyc.gov/bronxcb3",
+    "email": "brxcomm3@optonline.net"
+  },
+  {
+    "borocd": 204,
+    "name": "Concourse, Concourse Village, East Concourse, Highbridge, Mount Eden",
+    "website": "http://www.nyc.gov/html/bxcb4",
+    "email": "bx04@cb.nyc.gov"
+  },
+  {
+    "borocd": 205,
+    "name": "Fordham, Morris Heights, Mount Hope, University Heights",
+    "website": "http://www1.nyc.gov/site/bronxcb5/index.page",
+    "email": "bx05@cb.nyc.gov"
+  },
+  {
+    "borocd": 206,
+    "name": "Bathgate, Belmont, Bronx Park South, East Tremont, West Farms",
+    "website": "http://www.bronxcb6.org/",
+    "email": "bronxcb6@bronxcb6.org"
+  },
+  {
+    "borocd": 207,
+    "name": "Bedford Park, Fordham, Kingsbridge Heights, Norwood, University Heights",
+    "website": "http://www.bronxcb7.info/",
+    "email": "info@bronxcb7.info"
+  },
+  {
+    "borocd": 208,
+    "name": "Fieldston, Kingsbridge, Marble Hill (MN), North Riverdale, Riverdale, Spuyten Duyvil",
+    "website": "http://www.nyc.gov/html/bxcb8",
+    "email": "bx08@cb.nyc.gov"
+  },
+  {
+    "borocd": 209,
+    "name": "Bronx River, Castle Hill, Clason Point, Harding Park, Parkchester, Soundview, Soundview-Bruckner, Unionport",
+    "website": "http://www.nyc.gov/bxcb9",
+    "email": "bx09@cb.nyc.gov"
+  },
+  {
+    "borocd": 210,
+    "name": "City Island, Co-op City, Country Club, Edgewater Park, Pelham Bay, Schuylerville, Throgs Neck, Westchester Square",
+    "website": "http://www.nyc.gov/html/bxcb10/",
+    "email": "bx10@cb.nyc.gov"
+  },
+  {
+    "borocd": 211,
+    "name": "Allerton, Bronxdale, Indian Village, Morris Park, Pelham Gardens, Pelham Parkway, Van Nest",
+    "website": "http://www.nyc.gov/bxcb11",
+    "email": "Bx11@cb.nyc.gov"
+  },
+  {
+    "borocd": 212,
+    "name": "Baychester, Eastchester, Edenwald, Olinville, Wakefield, Williamsbridge, Woodlawn",
+    "website": "http://www1.nyc.gov/site/bronxcb12/index.page",
+    "email": "gtorres@cb.nyc.gov"
+  },
+  {
+    "borocd": 301,
+    "name": "East Williamsburg, Greenpoint, Northside, Southside, Williamsburg",
+    "website": "http://www.nyc.gov/html/bkncb1",
+    "email": "bk01@cb.nyc.gov"
+  },
+  {
+    "borocd": 302,
+    "name": "Boerum Hill, Brooklyn Heights, Clinton Hill, Downtown Brooklyn, DUMBO, Fort Greene, Fulton Ferry, Navy Yard, Vinegar Hill",
+    "website": "http://www.nyc.gov/html/bkncb2",
+    "email": "cb2k@nyc.rr.com"
+  },
+  {
+    "borocd": 303,
+    "name": "Bedford-Stuyvesant, Stuyvesant Heights, Tompkins Park North",
+    "website": "https://www1.nyc.gov/site/brooklyncb3/index.page",
+    "email": "bk03@cb.nyc.gov"
+  },
+  {
+    "borocd": 304,
+    "name": "Bushwick",
+    "website": "http://www.nyc.gov/brooklyncb4",
+    "email": "BK04@cb.nyc.gov"
+  },
+  {
+    "borocd": 305,
+    "name": "Broadway Junction, City Line, Cypress Hills, East New York, Highland Park, New Lots, Spring Creek, Starrett City",
+    "website": "http://www.brooklyncb5.org/",
+    "email": "bk05@cb.nyc.gov"
+  },
+  {
+    "borocd": 306,
+    "name": "Carroll Gardens, Cobble Hill, Columbia St, Gowanus, Park Slope, Red Hook",
+    "website": "http://www1.nyc.gov/site/brooklyncb6/index.page",
+    "email": "info@brooklyncb6.org"
+  },
+  {
+    "borocd": 307,
+    "name": "Sunset Park, Windsor Terrace",
+    "website": "http://www.nyc.gov/bk07",
+    "email": "bk07@cb.nyc.gov"
+  },
+  {
+    "borocd": 308,
+    "name": "Crown Heights, Prospect Heights, Weeksville",
+    "website": "http://www.brooklyncb8.org/",
+    "email": "brooklynCB8@gmail.com"
+  },
+  {
+    "borocd": 309,
+    "name": "Crown Heights South, Prospect Lefferts Gardens, Wingate",
+    "website": "http://www.communitybrd9bklyn.org/",
+    "email": "bk09@cb.nyc.gov"
+  },
+  {
+    "borocd": 310,
+    "name": "Bay Ridge, Dyker Heights, Fort Hamilton",
+    "website": "http://www.bkcb10.org/",
+    "email": "bk10@cb.nyc.gov"
+  },
+  {
+    "borocd": 311,
+    "name": "Bath Beach, Bensonhurst, Gravesend, Mapleton",
+    "website": "http://www.brooklyncb11.org/",
+    "email": "bk11@cb.nyc.gov"
+  },
+  {
+    "borocd": 312,
+    "name": "Borough Park, Kensington, Ocean Parkway",
+    "website": "http://www.brooklyncb12.org/",
+    "email": "bkcb12@gmail.com"
+  },
+  {
+    "borocd": 313,
+    "name": "Brighton Beach, Coney Island, Gravesend, Homecrest, Sea Gate, West Brighton",
+    "website": "http://www1.nyc.gov/site/brooklyncb13/index.page",
+    "email": "edmark@cb.nyc.gov"
+  },
+  {
+    "borocd": 314,
+    "name": "Ditmas Park, Flatbush, Manhattan Terrace, Midwood, Ocean Parkway, Prospect Park South",
+    "website": "http://www.cb14brooklyn.com/",
+    "email": "info@cb14brooklyn.com"
+  },
+  {
+    "borocd": 315,
+    "name": "Gerritsen Beach, Gravesend, Homecrest, Kings Highway, Manhattan Beach, Plumb Beach, Sheepshead Bay",
+    "website": "http://www.nyc.gov/html/bkncb15",
+    "email": "bklcb15@verizon.net"
+  },
+  {
+    "borocd": 316,
+    "name": "Broadway Junction, Brownsville, Ocean Hill",
+    "website": "http://www.nyc.gov/brooklyncb16",
+    "email": "bk16@cb.nyc.gov"
+  },
+  {
+    "borocd": 317,
+    "name": "East Flatbush, Farragut, Flatbush, Northeast Flatbush, Remsen Village, Rugby, Erasmus",
+    "website": "http://www.cb17brooklyn.org/",
+    "email": "bk17@cb.nyc.gov"
+  },
+  {
+    "borocd": 318,
+    "name": "Bergen Beach, Canarsie, Flatlands, Georgetown, Marine Park, Mill Basin, Mill Island, Paerdegat Basin",
+    "website": "https://www1.nyc.gov/site/brooklyncb18/index.page",
+    "email": "BK18@cb.nyc.gov"
+  },
+  {
+    "borocd": 401,
+    "name": "Astoria, Astoria Heights, Queensbridge, Dutch Kills, Long Island City, Ravenswood, Rikers Island (BX), Steinway",
+    "website": "http://www1.nyc.gov/site/queenscb1/index.page",
+    "email": "Qn01@cb.nyc.gov"
+  },
+  {
+    "borocd": 402,
+    "name": "Blissville, Hunters Point, Long Island City, Sunnyside, Sunnyside Gardens, Woodside",
+    "website": "http://www.nyc.gov/queenscb2",
+    "email": "qn02@cb.nyc.gov"
+  },
+  {
+    "borocd": 403,
+    "name": "East Elmhurst, Jackson Heights, North Corona",
+    "website": "http://www.cb3qn.nyc.gov/",
+    "email": "communityboard3@nyc.rr.com"
+  },
+  {
+    "borocd": 404,
+    "name": "Corona, Corona Heights, Elmhurst, Lefrak City",
+    "website": "http://www1.nyc.gov/site/queenscb4/index.page",
+    "email": "qn04@cb.nyc.gov"
+  },
+  {
+    "borocd": 405,
+    "name": "Glendale, Maspeth, Middle Village, Ridgewood",
+    "website": "http://www.nyc.gov/qnscb5",
+    "email": "qnscb5@nyc.rr.com"
+  },
+  {
+    "borocd": 406,
+    "name": "Forest Hills, Forest Hills Gardens, Rego Park",
+    "website": "http://www1.nyc.gov/site/queenscb6/index.page",
+    "email": "qn06@cb.nyc.gov"
+  },
+  {
+    "borocd": 407,
+    "name": "Auburndale, Bay Terrace, Beechhurst, Clearview, College Point, Downtown Flushing, East Flushing, Flushing, Malba, Murray Hill, Queensboro Hill, Waldheim, Whitestone",
+    "website": "http://www.nyc.gov/queenscb7",
+    "email": "qn07@cb.nyc.gov"
+  },
+  {
+    "borocd": 408,
+    "name": "Briarwood, Fresh Meadows, Hillcrest, Holliswood, Jamaica, Jamaica Estates, Jamaica Hills, Kew Gardens Hills, Pomonok, Utopia",
+    "website": "http://www1.nyc.gov/site/queenscb8/index.page",
+    "email": "qn08@cb.nyc.gov"
+  },
+  {
+    "borocd": 409,
+    "name": "Kew Gardens, Ozone Park, Richmond Hill, Woodhaven",
+    "website": "http://www1.nyc.gov/site/queenscb9/index.page",
+    "email": "qn09@cb.nyc.gov"
+  },
+  {
+    "borocd": 410,
+    "name": "Howard Beach, Lindenwood, Old Howard Beach, Ozone Park, South Ozone Park",
+    "website": "http://www.nyc.gov/html/qnscb10",
+    "email": "cb10qns@nyc.rr.com"
+  },
+  {
+    "borocd": 411,
+    "name": "Auburndale, Bayside, Douglaston, Hollis Hills, Little Neck, Oakland Gardens",
+    "website": "http://www.nyc.gov/queenscb11",
+    "email": "QN11@cb.nyc.gov"
+  },
+  {
+    "borocd": 412,
+    "name": "Hollis, Jamaica, Jamaica Center, North Springfield Gardens, Rochdale, South Jamaica, St. Albans",
+    "website": "http://www.nyc.gov/qcb12",
+    "email": "qn12@cb.nyc.gov"
+  },
+  {
+    "borocd": 413,
+    "name": "Bellaire, Bellerose, Brookville, Cambria Heights, Floral Park, Glen Oaks, Laurelton, New Hyde Park, Queens Village, Rosedale, Springfield Gardens",
+    "website": "http://www1.nyc.gov/site/queenscb13/index.page",
+    "email": "info@qcb13.org"
+  },
+  {
+    "borocd": 414,
+    "name": "Arverne, Bayswater, Belle Harbor, Breezy Point, Broad Channel, Edgemere, Far Rockaway, Hammels, Neponsit, Rockaway Park, The Rockaways, Roxbury, Seaside, Somerville",
+    "website": "http://www1.nyc.gov/site/queenscb14/index.page",
+    "email": "cbrock14@nyc.rr.com"
+  },
+  {
+    "borocd": 501,
+    "name": "Arlington, Castleton Corners, Clifton, Elm Park, Fox Hills, Graniteville, Grymes Hill, Howland Hook, Livingston, Mariner's Harbor, New Brighton, Old Place, Park Hill, Port Ivory, Port Richmond, Randall Manor, Rosebank, Shore Acres, Silver Lake, St. George, Stapleton, Sunnyside, Tompkinsville, Ward Hill, West Brighton, West New Brighton, Westerleigh, Willowbrook",
+    "website": "http://www1.nyc.gov/site/statenislandcb1/index.page",
+    "email": "Sicb1@si.rr.com"
+  },
+  {
+    "borocd": 502,
+    "name": "Arrochar, Bloomfield, Bulls Head, Chelsea, Concord, Dongan Hills, Egbertville, Emerson Hill, Grant City, Grasmere, Heartland Village, Lighthouse Hill, Manor Heights, Midland Beach, New Dorp, New Dorp Beach, New Springville, Old Town, South Beach, Todt Hill, Travis, Willowbrook",
+    "website": "http://www.cb2si.com/",
+    "email": "dderrico@cb.nyc.gov"
+  },
+  {
+    "borocd": 503,
+    "name": "Annadale, Arden Heights, Bay Terrace, Butler Manor, Charleston, Eltingville, Fresh Kills, Great Kills, Greenridge, Huguenot, Oakwood, Oakwood Beach, Oakwood Heights, Pleasant Plains, Prince's Bay, Richmond Town, Richmond Valley, Rossville, Sandy Ground, Tottenville, Woodrow",
+    "website": "http://www1.nyc.gov/site/statenislandcb3/index.page",
+    "email": "sicb3@cb.nyc.gov"
+  }
+]
